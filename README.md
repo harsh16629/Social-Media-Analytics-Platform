@@ -20,7 +20,7 @@ A comprehensive SQL and Python-based analytics platform for social media data, f
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/social-media-analytics.git
+git clone https://github.com/harsh16629/Social-Media-Analytics-Platform.git
 cd social-media-analytics
 ```
 
